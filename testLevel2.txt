@@ -1,0 +1,25 @@
+20 20
+A A A A A A A A A A A A A A A A A A A A 
+A A A A A A A A A A C A A A A A A A A A 
+A A A A A A A A A A A A A A C A A A A A 
+A A S A A A A B B B B B A A A A A E A A 
+A A B B A A A A A A A B B B B B B B A A 
+A A A A A A A A A A A A A A A A A A A A 
+A A A A A A A A A A A A A A A A A A A A 
+A A A A C B B B B B A A A A A A A A C A 
+A A A A A A A A A A A A A A A A A A A A 
+A A A A A A A A A A A A A A A A A A A A 
+A A A A A A A A A A A S S S A A A A A A 
+A A A A A A A A A B B B B B B B B A A A 
+A A A A A A A A A A A A A A A A A A A A 
+A A A A A A A A A A A A A A A A A A A A 
+A A A A A A A A A A A A A A A A A A A A 
+A A A P A A A A A A A A A A A B B B A A 
+A A B B B B B B B B B A A A A A A A A A 
+A A A A A A A A A A B B A A A A A A A A 
+A A A A A A A A A A A A A A A A A A A A 
+A A A A A A A A A A A A A A A A A A A A 
+walkSpeed 6.0
+jumpForce -8.0
+grav 0.3
+terminalVel 9.0

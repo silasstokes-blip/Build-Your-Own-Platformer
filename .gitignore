@@ -1,0 +1,7 @@
+# Compiled Java
+*.class
+
+# Local environment files
+.vnc/
+.config/
+.java/

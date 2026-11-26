@@ -1,0 +1,45 @@
+75 40
+A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A E A A A A A A 
+A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A E A A A A A A 
+A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A E E E E E B A C A 
+A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A E E E A B A C A 
+A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A E A E A B A B A 
+A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A B B B B B A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A E A A A E B A A A 
+A A A A A A A A A A A A A A A A A A A A A A A A A B B A A A A A A A A A A A A A A A A A A A A A A A B B B B B B A A A A A A A A A A B B B B B B C C A 
+A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A B B B B B A A A A A A A A A A A A A A A A A A A A A A A A A A B A 
+A A A A A A A A A C C C C A A A A A A A A A A A A A A A A A A A A A A A B B B B A A A A A A A A A A A A A A A A A A A A A A A A A A A A A C C C C A A 
+A A A A A A A A A A A A A A A B B B B B B B A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A B B B A A A A A A A A C C C A A A 
+A A A B B B A A S S A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A B A A 
+A A A A A B A A B B B B B B A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A B B B A A A A A 
+A A A A A B A A A A A A A A A A A A A A A A A S C A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A 
+A B A A A A A A A A A A A A A A A A A A A A A B B A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A 
+A A A A A A A A A A A A A A A A A A A A A A A A A A C A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A 
+A A A A A A A A A A A A A A A A A A A A A A A A A A B A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A 
+A A A B A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A 
+A A A A A A A A A A A A A A A A A A A A A A A A A A A C S A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A 
+A A A A A A A A A A A A A A A A A A A A A A A A A A A B B A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A 
+A B A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A 
+A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A 
+A A A A A A A A A B B A A A A A A A A A A A A A A A B A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A 
+A A A B B A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A C A A A A A A A A A A A A A A A A A A A A A 
+A A A A A A A A A A A A B B A A A A B B A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A S S A A A A A A A A A A A A A A A A A A A S A 
+A A A A A A A A A A A A A A A A A A A A A A A B B B B B B B A A A A A A A S A A A A A A A A A A A A A A B B B B B A A A A A A C A A A A A A A A A B A 
+A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A B B B B B A A A A A A A A A A A A B A A A A A A A A A A A A A A A A A A A A B A 
+A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A S A A A A A A A A A A A A A A A A B B B B B B A A A A A A B A 
+A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A B B B B B A A A A A A A A A A A A A A A A A A A A A A A A A B B A 
+A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A B A 
+A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A B A 
+A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A B B A 
+A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A B A 
+A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A B A 
+A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A B B A 
+A A A A A A A A A A A A A A A A A A A A A C A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A B A 
+A A A A A A A A A A A C C C A A A A A A A A A A A A A A A A A A A A A C A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A C C C A A B A 
+A A S S A P A B B B B B B B B B B A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A B B B B B B B B B A 
+A A B B B B B B A A A A A A A A A A A A A A A A A A A A A A A B B A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A 
+A A A A A A A A A A A A A A A A A A A A A A A A B B A A A A A A A A A A A B B B B A A A A A A A A A A A A S S A A A A A B A A A A A A A A A A A A A A 
+A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A B B B B B B B B A A A A A A A A A A A A A A A A A A A A 
+walkSpeed 8.0
+jumpForce -20.0
+grav 1.75
+terminalVel 15.0

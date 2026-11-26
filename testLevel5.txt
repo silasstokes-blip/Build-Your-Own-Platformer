@@ -1,0 +1,20 @@
+75 15
+A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A 
+A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A 
+A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A 
+A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A 
+A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A 
+A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A 
+A A A A A A A A A A A A A A A A A C A A S S S A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A 
+A A A A A A A A A A A A A A A B B B B B B B B A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A B B B B B B B B S S S S S S S A A A A A A 
+A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A S S S A A A A A A A A A A A A A A A A A A A B C C C A A A B B B B B B B B A A A A A A 
+A A A A A A A A A A A A A A A A A A A A A A A A A A A B B B B B B B B A A A A A A A A A A A A S S S A A A A B A A A A A A A A A A C A A A A A A A A A 
+A A A P A A A C A A A C A A A A A A A A A A A A A A A A A A A A A A A A A A A B B B B B B B B B B B A A A A B A A A A A A A A A A C A A A A A A A A A 
+A A B B B B B B B B B B A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A B A A A A A A A A S S S S A A A A A A A A 
+A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A B A A A A B B B B B B B B A A A A A C A A 
+A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A B E A A S B A A A A A A A A A B B B B A A 
+A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A B B B B B B A A A A A A A A A A A A A A A 
+walkSpeed 8.0
+jumpForce -8.0
+grav 0.3
+terminalVel 3.0
